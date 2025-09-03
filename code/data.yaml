@@ -1,7 +1,0 @@
-path: bvn    # 数据集目录
-train: images/train
-val: images/val
-test: images/test
-
-nc: 2
-names: ['002','003']
