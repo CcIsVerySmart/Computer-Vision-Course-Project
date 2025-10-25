@@ -1,4 +1,4 @@
-# 🚀 Computer Vision Course Project: 红外无人机检测与可视化系统
+# 红外无人机检测与可视化系统
 
 ## 📖 项目简介
 本项目基于 **Gold-YOLO (YOLOv8 改进版)** 和 **Streamlit**，实现了红外无人机目标检测与可视化系统。  
